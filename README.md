@@ -1,2 +1,3 @@
-# open-budget-app.github.io
-Open Budget App website
+# Official website of Open Budget App
+
+See: https://openbudget.app/
